@@ -8,11 +8,11 @@ Azure DevOps Online Training Syllabus - 2024
 | :----: | :----: | :----: |
 | DAY-1 | Introduction to Azure |
 | DAY-2 | Manage Virtual Machines |Create,Delete,Update Virtual Machines in Azure Cloud |
-| DAY-3 |	Networking - Part 1	Configure Virtual networks |
-| DAY-4	| Networking - Part 2	Configure load balancing |
-| DAY-5	| Storage and Backup	Manage Storage Account and Configure Azure Backups |
-| DAY-6	| Web Apps	Create and Configure Azure Web Apps |
-| DAY-7	| Manage Azure identities and governance 	Manage Azure AD objects |
+| DAY-3 |	Networking - Part 1  |	Configure Virtual networks |
+| DAY-4	| Networking - Part 2	  | Configure load balancing |
+| DAY-5	| Storage and Backup  |	Manage Storage Account and Configure Azure Backups |
+| DAY-6	| Web Apps  | 	Create and Configure Azure Web Apps |
+| DAY-7	| Manage Azure identities and governance  |	Manage Azure AD objects |
 | DAY-8	| Introduction to Azure DevOps |
 | DAY-9	 | Azure Automation | Terraform - Part 1 |
 | DAY-10 |  Azure Automation | Terraform - Part 2 |
