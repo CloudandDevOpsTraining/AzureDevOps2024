@@ -44,7 +44,7 @@ Azure DevOps Online Training Syllabus - 2024
 | DAY-36	| 	Container and Container Orchestration | 	Manage Azure Kubernetes Services - Part 2 |
 | DAY-37	 | CV and Interview Preparation 	|
 |DAY-38|	Mock Interview	|
-|DAY-39|	Real Time based scenrios and Notes sharing	|
+|DAY-39|	Real Time based scenarios and Notes sharing	|
  
 
 
